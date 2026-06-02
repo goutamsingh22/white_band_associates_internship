@@ -16,11 +16,17 @@ DNS (Domain Name System) is a service that translates human-readable domain name
 Example: google.com → 142.250.183.78
 
 Difference between Public IP and Private IP.
-Public IP	Private IP
-Used on the Internet	Used within a local network
-Assigned by ISP	Assigned by router
-Globally unique	Can be reused in different networks
-Accessible from outside	Not directly accessible from outside
-•	Public IP: 103.21.58.10 	•	Private IP: 192.168.1.5
+Public IP
+Used on the Internet,
+Assigned by ISP,
+Globally unique,
+Accessible from outside
+Public IP: 103.21.58.10 
 
+Private IP
+Used within a local network
+Assigned by router
+Can be reused in different networks
+Not directly accessible from outside
+Private IP: 192.168.1.5
 
