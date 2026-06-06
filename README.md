@@ -1,5 +1,12 @@
 # TASK 1 
 
+# PART A NETWORK INFORMATION 
+![MY PC](
+
+
+
+
+# PART B 
 # What is an IP Address?
 When we connect a device to internet then an id is assigned to devices. This id is used to communicate with the devices and to get access to any file on an internet. 
 Example: Without ip address is like an student in university without name and roll number.
@@ -30,5 +37,9 @@ Used within a local network
 Assigned by router
 Can be reused in different networks
 Not directly accessible from outside
+
+
+
+# PART B 
 Private IP: 192.168.1.5
 
