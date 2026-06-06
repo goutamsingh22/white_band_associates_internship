@@ -1,7 +1,7 @@
 # TASK 1 
 
 # PART A NETWORK INFORMATION 
-![MY PC](screenshorts.png)
+![MY PC](1.png)
 
 
 
@@ -42,6 +42,22 @@ Not directly accessible from outside
 
 # PART C 
 FLOW CHART 
-1[FLOW CHART](FLOWCHART.png)
+![FLOW CHART](FLOWCHART.png)
+
+# PART D 
+![TEST](1_1.png)
+
+1. Was the ping successful?
+Yes, the ping was successful because replies were received from Google's server.
+
+2. How many hops were shown?
+The traceroute showed 12 hops from my device to Google's server.
+
+3. What is the purpose of traceroute?
+Traceroute is used to identify the path that data packets take from a source device to a destination server. It helps in troubleshooting network connectivity and performance issues.
+
+
+
+
 Private IP: 192.168.1.5
 
