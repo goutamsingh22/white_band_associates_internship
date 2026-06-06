@@ -1,7 +1,7 @@
 # TASK 1 
 
 # PART A NETWORK INFORMATION 
-![MY PC](1.png)
+![MYPC](1.png)
 
 
 
