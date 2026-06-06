@@ -1,7 +1,7 @@
 # TASK 1 
 
 # PART A NETWORK INFORMATION 
-![MY PC](
+![MY PC](screenshorts.png)
 
 
 
@@ -40,6 +40,8 @@ Not directly accessible from outside
 
 
 
-# PART B 
+# PART C 
+FLOW CHART 
+1[FLOW CHART](FLOWCHART.png)
 Private IP: 192.168.1.5
 
